@@ -1,2 +1,6 @@
 # hello-world
-sample project
+I am a junior at Dalton High School.
+I am 17 years old.
+
+
+I want to add an emoji.
